@@ -1,0 +1,21 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-b719d196.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/index.vue"
+    ],
+    "css": [
+      "entry.b680d2db.css"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-45395945.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
