@@ -1,18 +1,17 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-b55ed729.mjs",
+    "file": "entry-6bab3cf0.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
-      "pages/index.vue",
       "virtual:nuxt:/home/jacopopinna/Documenti/GitHub/nuxt-tesla/.nuxt/error-component.mjs"
     ],
     "css": [
-      "entry.2a845972.css"
+      "entry.3cd2ea50.css"
     ]
   },
   "virtual:nuxt:/home/jacopopinna/Documenti/GitHub/nuxt-tesla/.nuxt/error-component.mjs": {
-    "file": "error-component-d0e34514.mjs",
+    "file": "error-component-43b4aadb.mjs",
     "src": "virtual:nuxt:/home/jacopopinna/Documenti/GitHub/nuxt-tesla/.nuxt/error-component.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -23,16 +22,8 @@
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ]
   },
-  "pages/index.vue": {
-    "file": "index-a32d148d.mjs",
-    "src": "pages/index.vue",
-    "isDynamicEntry": true,
-    "imports": [
-      "node_modules/nuxt/dist/app/entry.mjs"
-    ]
-  },
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
-    "file": "error-404-c3b4cc7e.mjs",
+    "file": "error-404-ee63f8c5.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -43,7 +34,7 @@
     ]
   },
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
-    "file": "error-500-14f7c091.mjs",
+    "file": "error-500-53a5ef2e.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
