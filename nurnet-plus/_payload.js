@@ -1,1 +1,1 @@
-export default (function(a){return {data:{},state:{"$sdrawer-content":null,"$sdrawer-state":{currentPosition:a,setPosition:a}},prerenderedAt:1663855129465}}(""))
+export default {data:{},prerenderedAt:1663855276195}
